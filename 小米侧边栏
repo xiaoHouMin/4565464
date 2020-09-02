@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        .box {
+            width: 234px;
+            background-color: rgb(89, 87, 94);
+            padding: 20px 0 20px 0;
+        }
+
+        a {
+            display: block;
+            height: 34px;
+            text-decoration: none;
+            color: #fff;
+            padding-left: 20px;
+            line-height: 34px;
+
+        }
+
+        a:hover {
+            background-color: rgb(255, 103, 0);
+        }
+    </style>
+</head>
+
+<body>
+    <div class="box">
+        <a href="#">手机 电话卡</a>
+        <a href="#">电视 盒子</a>
+        <a href="#">笔记本 显示器</a>
+        <a href="#">家电 插线板</a>
+        <a href="#">出行 穿戴</a>
+        <a href="#">智能 路由器</a>
+        <a href="#">电源 配件</a>
+    </div>
+</body>
+
+</html>
